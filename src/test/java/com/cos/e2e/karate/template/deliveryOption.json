@@ -1,0 +1,19 @@
+{
+  "deliveryOptions": {
+    "fulfilment": {
+      "slotReservationId": "{{reservationId}}",
+      "deliveryInstructions": "my delivery Instructions",
+      "addressId": "trn:tesco:address:address:uuid:38ab392f-4432-4621-86ab-9b3e5ce9ea40",
+      "addressIndex": "GHS_60356734",
+      "deliveryCharge": "00200550000000",
+      "markedPrice": "3",
+      "slotStartDateTime": "2022-08-30T07:00:00Z",
+      "slotEndDateTime": "2022-08-30T08:00:00Z",
+      "reservationExpiryDateTime": "2022-08-30T15:13:39Z",
+      "branchNumber": "2020",
+      "deliverySlotType": "1",
+      "deliveryType": "HOME_DELIVERY",
+      "slotExpiryDateTime": "2022-08-30T23:01:00Z"
+    }
+  }
+}

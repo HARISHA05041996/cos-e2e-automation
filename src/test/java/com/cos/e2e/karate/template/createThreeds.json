@@ -1,0 +1,6 @@
+{
+  "ipAddress": "10.0.0.1",
+  "deviceDataCollectionReturnUrl": "https://someDeviceDataCollectionReturnUrl",
+  "challengeReturnUrl": "https://someChallengeReturnUrl",
+  "transactionChannel": "Retail"
+}

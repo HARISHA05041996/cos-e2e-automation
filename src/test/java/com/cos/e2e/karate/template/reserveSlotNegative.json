@@ -1,0 +1,48 @@
+{
+  "consignment": {
+    "customerId": "",
+    "consignmentType": "NONCONSOLIDATED",
+    "shipFrom": {
+      "locationId": "2020"
+    },
+    "shipTo": {
+      "locationType": "RESIDENTIAL",
+      "address": {
+        "addressID": 1,
+        "postcode": "HP7 0HA",
+        "country": "GB",
+        "buildingType": "FLATGROUND"
+      },
+      "geoCoordinate": {
+        "latitude": 54.0039186500720,
+        "longitude": -6.4106669186654
+      }
+    },
+    "logisticsUnits": [
+      {
+        "businessUnit": "GROCERY",
+        "orderReference": "345656567",
+        "weightExcludingPackaging": {
+          "value": 30,
+          "weightUnit": "KILOGRAM"
+        },
+        "volume": {
+          "value": 1,
+          "volumeUnit": "CM3"
+        },
+        "logisticUnitType": "PACKAGE",
+        "newCustomer": true,
+        "bagless": true
+      }
+    ]
+  },
+  "shippingOption": {
+    "serviceType": "TESCO_PREMIUM_VAN",
+    "carrierType": "CARRIER",
+    "serviceCode": "ONE_HOUR"
+  },
+  "slot": {
+    "windowStart": "2022-07-21T07:00:00Z",
+    "windowEnd": "2022-07-21T08:00:00Z"
+  }
+}

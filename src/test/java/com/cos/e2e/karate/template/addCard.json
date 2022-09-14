@@ -1,0 +1,13 @@
+{
+  "primaryAccountNumber": "8999944444444496",
+  "expiryMonth": 10,
+  "expiryYear": 20,
+  "billingAddress": {
+    "line1": "Tesco Stores Ltd",
+    "line2": "The Lever Building",
+    "line3": "85 Clerkenwell Rd",
+    "town": "London",
+    "postcode": "EC1R 5AR"
+  },
+  "nameOnCard": "John Doe"
+}

@@ -1,0 +1,10 @@
+{
+  "paymentLocation": "cd39ab0b-f441-47c8-9206-938453ddc766",
+  "paymentDateTime":"2022-07-15T11:49:36.432Z",
+  "paymentJourney":"tesco:digital:grocery",
+  "externalReference": "OrderApi",
+  "amount" : {
+    "currency": "GBP",
+    "value": "24.75"
+  }
+}
